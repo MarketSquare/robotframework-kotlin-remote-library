@@ -45,5 +45,4 @@ robot .
 - Pekka Klarck
 - Ed Manlove
 - Thomas Jaspers
-- Li Haoyi
 - The entire Robot Framework community and its contributors
