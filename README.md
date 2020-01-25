@@ -46,5 +46,4 @@ robot .
 - Ed Manlove
 - Thomas Jaspers
 - Li Haoyi
-- Tatu Kairi
 - The entire Robot Framework community and its contributors
